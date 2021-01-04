@@ -16,12 +16,12 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)'=='Debug_Static_MTDLL'">
     <Lib>
-      <AdditionalLibraryDirectories>$(DirectXMesh)Bin\Desktop_2015_Win10\$(Platform)\Debug\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(DirectXMesh)Bin\Desktop_2019_Win10\$(Platform)\Debug\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Lib>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)'=='Release_Static_MTDLL'">
     <Lib>
-      <AdditionalLibraryDirectories>$(DirectXMesh)Bin\Desktop_2015_Win10\$(Platform)\Release\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(DirectXMesh)Bin\Desktop_2019_Win10\$(Platform)\Release\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>

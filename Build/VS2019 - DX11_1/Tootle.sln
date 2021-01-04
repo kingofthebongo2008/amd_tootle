@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TootleLib", "TootleLib.vcxp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TootleSample", "TootleSample_DX11_1.vcxproj", "{0F3108B0-4779-4640-8891-1A1E1200A84E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectXMesh", "..\..\..\DirectXMesh\DirectXMesh\DirectXMesh_Desktop_2015_Win10.vcxproj", "{6857F086-F6FE-4150-9ED7-7446F1C1C220}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectXMesh", "..\..\..\DirectXMesh\DirectXMesh\DirectXMesh_Desktop_2019_Win10.vcxproj", "{6857F086-F6FE-4150-9ED7-7446F1C1C220}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
